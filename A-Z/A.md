@@ -16,6 +16,7 @@
 | Advisory 					| Penasihat					| |
 | Affirmation 				| Penegasan					| |
 | Agenda 					| Agenda					| |
+| All 						| Semua 					| |
 | Alphanumeric Characters 	| Karakter Alfanumerik 		| |
 | Algorithm 				| Algoritma					| |
 | Alias 					| Alias						| |

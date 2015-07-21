@@ -7,6 +7,7 @@
 | Language 			| Bahasa 					| |
 | Launch 			| Luncur 					| |
 | Launching 		| Peluncuran 				| |
+| Layout(s) 		| Tata letak 				| |
 | Leasedline 		| Jalur sewaan 				| |
 | Left 				| Kiri						| |
 | Line 				| Baris 					| |

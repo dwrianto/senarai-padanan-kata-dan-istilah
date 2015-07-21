@@ -37,3 +37,4 @@
 | Intranet 			| Intranet 				| |
 | IP 				| IP 					| Selalu pakai huruf besar karena ini singkatan dari Identification Personal. |
 | Italic 			| Miring 				| Menjelaskan jenis huruf. |
+| Item(s) 			| Butir 				| |
