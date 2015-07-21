@@ -38,6 +38,6 @@
 | Ascend					| Naik						| |
 | Ascending 				| Urut naik; menaik 		| Biasa dipakai untuk mengurutkan sesuatu berdasarkan abjad atau penomoran. |
 | Attribute					| Atribut 					| |
-| Authenticate 				| Autentikasi 				| Bermakna sama dengan **pengesahan**. |
+| Authenticate 				| Otentikasi 				| Bermakna sama dengan **pengesahan**. |
 | Auto						| Otomatis					| Bisa disingkat, **oto**. |
 | AutoCorrect 				| Koreksi-Otomatis 			| Bisa memakai tanda penghubung diantara dua kata (-) karena kata ini menunjuk ke fungsi. |
