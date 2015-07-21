@@ -10,6 +10,7 @@
 | Layout(s) 		| Tata letak 				| |
 | Leasedline 		| Jalur sewaan 				| |
 | Left 				| Kiri						| |
+| Level 			| Level, tingkat 			| |
 | Line 				| Baris 					| |
 | Link(s) 			| Taut	 					| Bentuk jamak, **tautan**. |
 | List 				| Senarai		 			| |
