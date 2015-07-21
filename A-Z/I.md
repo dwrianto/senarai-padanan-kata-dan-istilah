@@ -7,7 +7,8 @@
 | Iframe 			| Iframe; bingkai 		| |
 | If-then rule 		| Kaidah jika-maka 		| |
 | If-then statement | Pernyataan jika-maka 	| |
-| Image 			| Gambar 				| |
+| Image 			| Gambar; citra 		| |
+| Imagery 			| Pencitraan 			| |
 | Image interpretation | Interpretasi gambar 	| |
 | Image understanding | Pemahaman gambar 	| |
 | Image recognition | Pengenalan gambar 	| |
