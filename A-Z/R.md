@@ -4,8 +4,8 @@
 |-------------------|-----------------------|---------------|
 | Random 			| Acak 					| |
 | Random access 	| Akses acak 			| |
-| Random Access mMemory (RAM) | Memori Akses Acak | |
-| Read Only Memory (ROM) | Memori Baca-Saja | |
+| Random Access Memory (RAM) | Memori Akses Acak | |
+| Read-Only Memory (ROM) | Memori Baca-Saja | |
 | Reader 			| Pembaca 				| |
 | Ready 			| Siap 					| |
 | Received 			| Diterima 				| |
