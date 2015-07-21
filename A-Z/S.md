@@ -74,6 +74,6 @@
 | Subtitle 		| Subtitel 				| |
 | Subtotal 		| Subtotal 				| |
 | Superscript 	| Tika atas 			| |
-| Super User 	| Pengguna Super 		| Dua kata harus dipisah dengan huruf besar diawal kata menunjukkan pengguna yang memiliki tingkat akses tertinggi. |
+| Super User 	| Pengguna Super 		| Dua kata harus dipisah dengan huruf besar di awal kata menunjukkan pengguna yang memiliki tingkat akses tertinggi. |
 | Symbol 		| Simbol 				| |
 | Synchronize 	| Selaras; sinkron 		| |
