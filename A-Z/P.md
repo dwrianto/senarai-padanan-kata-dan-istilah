@@ -2,6 +2,8 @@
 
 | English			| Bahasa Indonesia		| Catatan		|
 |-------------------|-----------------------|---------------|
+| Package 			| Paket 				| |
+| Packaged 			| Dikemas; dipaketkan 	| |
 | Pack and Go 		| Kemas dan Jalankan 	| |
 | Page default 		| Standar halaman 		| |
 | Pagedown 			| Turun halaman 		| Pada tombol papan ketik biasa disingkat *pgdn*. |

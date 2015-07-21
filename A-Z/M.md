@@ -11,7 +11,7 @@
 | Mailbox 			| Kotak surat 			| |
 | Mainframe 		| Bingkai induk; kerangka induk | |
 | Management Domain | Ranah Manajemen 		| |
-| Manager 			| Manajer; pengelolaan	| Gunakan **pengelolaan** apabila merujuk pada suatu komponen atau modul, seperti Article Manager, Banner Manager. |
+| Manager 			| Manajer; pengelolaan	| Gunakan **pengelolaan** apabila merujuk ke nama komponen atau nam modul, seperti Article Manager, Banner Manager. |
 | Maintenance 		| Perawatan 			| |
 | Map Network Drive | Pemacu Jaringan Peta 	| |
 | Master data 		| Data master; data induk | |

@@ -25,17 +25,18 @@
 | Bitmap 					| Peta bit 					| |
 | Blackboard 				| Papan tulis 				| |
 | Blocked 					| Diblokir 					| |
-| Blindcopyrecipient 		| Penerima salin buntu 		| |
+| Blind copy recipient 		| Penerima salin buntu 		| |
 | Body 						| Body; badan 				| |
 | Body text 				| Teks tubuh 				| |
 | Bold 						| Tebal 					| |
 | Border 					| Batas 					| |
 | Bps 						| Bps 						| |
-| Breadth-first search 		| Telusur lebar pertama 	| |
+| Breadth-First search 		| Telusur lebar pertama 	| |
 | Break 					| Putus 					| |
 | Broadcast 				| Siaran 					| |
 | Browse 					| Ramban; jelajah 			| |
 | Browser(s) 				| Peramban; penjelajah 		| |
+| Bundled 					| Bundel; dibundel 			| |
 | Buffer 					| Penyangga					| |
 | Bug(s) 					| Kutu 						| |
 | Bullet 					| Bulet 					| |

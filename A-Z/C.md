@@ -57,7 +57,7 @@
 | Control Panel 			| Panel Kendali 			| |
 | Convert 					| Ubah 						| |
 | Conversion(s) 			| Konversi 					| Jika dikaitkan dengan mata uang, gunakan **penukaran**. |
-| Copy 						| Salin 					| Kata sifat, seperti *copy recipient*, artinya penerima salinan. |
+| Copy 						| Salin 					| |
 | Count 					| Jumlah 					| |
 | Country 					| Negara 					| |
 | Crack 					| Rengkah 					| |

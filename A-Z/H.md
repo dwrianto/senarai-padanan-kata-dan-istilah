@@ -3,6 +3,7 @@
 | English				| Bahasa Indonesia		| Catatan			|
 |-----------------------|-----------------------|-------------------|
 | Hack 					| Retas 				| Untuk orang (hacker), biasa dipanggil **peretas**. |
+| Handling 				| Penanganan 			| |
 | Hang 					| Macet 				| |
 | Hanging indent 		| Inden gantung 		| |
 | Hard disk 			| Cakram keras 			| |
@@ -22,4 +23,4 @@
 | Horizontal 			| Horizontal 			| |
 | HTML 					| HTML 					| Bukan ~~html~~ karena ini singkatan, kecuali dipakai di pengkodean dan nama ekstensi. |
 | Hub 					| Hub 					| Menunjukkan sebuah komunitas yang biasa bekerja bersama-sama. |
-| Hyperlink 			| Pranala 				| |
+| Hyperlink 			| Pranala; tautan hiper | |

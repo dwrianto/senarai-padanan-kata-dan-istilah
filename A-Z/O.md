@@ -9,7 +9,7 @@
 | Office automation | Otomasi kantor 		| |
 | Offline 			| Offline; luring; terputus | |
 | OK 				| OK 					| |
-| On 				| Nyala, hidup 			| |
+| On 				| Nyala 				| |
 | Online 			| Online; daring; tersambung | |
 | Open 				| Buka 					| |
 | Open Source	 	| Sumber Terbuka 		| |
