@@ -6,7 +6,7 @@
 | Cancel 					| Batal 					| |
 | Capacity 					| Kapasitas 				| |
 | Capslock 					| Kancing kapital 			| |
-| CAPTCHA 					| CAPTCHA 					| Selalu gunakan huruf besar karena ini merupakan singkatan dari Completely Automated Public Turing. |
+| CAPTCHA 					| CAPTCHA 					| Selalu gunakan huruf besar karena ini merupakan singkatan dari Completely Automated Public Turing test to tell Computers and Humans Apart. |
 | Caption(s) 				| Takarir					| |
 | Card 						| Kartu 					| |
 | Cartridge					| Kartrid; selongsong; patrun | |
