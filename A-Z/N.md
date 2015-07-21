@@ -8,6 +8,7 @@
 | Network 			| Jaringan 				| |
 | Networking 		| Jejaring 				| |
 | New mail 			| Surat baru 			| |
+| News Feed 		| Pengumpan Berita 		| |
 | Nondelivery 		| Tak terkirim 			| |
 | Note 				| Catatan 				| Catatan sederhana sebagai pengingat. |
 | Notification 		| Pemberitahuan 		| |

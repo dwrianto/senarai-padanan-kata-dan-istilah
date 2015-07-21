@@ -6,6 +6,7 @@
 | Page default 		| Standar halaman 		| |
 | Pagedown 			| Turun halaman 		| Pada tombol papan ketik biasa disingkat *pgdn*. |
 | Pageup 			| Naik halaman 			| Pada tombol papan ketik biasa disingkat *pgup*. |
+| Page break 		| Pecah halaman 		| |
 | Page number 		| Nomor halaman 		| |
 | Page preview 		| Tinjau halaman 		| |
 | Page setup 		| Tata halaman 			| |
@@ -18,9 +19,11 @@
 | Permalink(s) 		| Pranala 				| |
 | Physical delivery | Pengiriman fisik 		| |
 | Physical Delivery Access | Akses Pengiriman Fisik | |
+| PHP 				| PHP 					| Pakai huruf besar kecuali untuk nama ekstensi atau dalam pengodean, singkatan dari Personal Home Page. |
 | Picture 			| Gambar 				| |
 | Pixel 			| Piksel 				| |
 | Platform 			| Platform 				| |
+| Plugin(s) 		| Plugin 				| |
 | Port 				| Pangkalan 			| |
 | Portrait 			| Potret 				| |
 | Power 			| Daya 					| |

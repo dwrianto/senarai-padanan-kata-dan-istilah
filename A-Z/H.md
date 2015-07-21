@@ -20,6 +20,6 @@
 | Home page 			| Halaman beranda 		| |
 | Home base 			| Basis pangkal 		| |
 | Horizontal 			| Horizontal 			| |
-| HTML 					| HTML 					| Bukan ~~html~~ karena ini singkatan, kecuali dipakai di pengkodean dan nama berkas. |
+| HTML 					| HTML 					| Bukan ~~html~~ karena ini singkatan, kecuali dipakai di pengkodean dan nama ekstensi. |
 | Hub 					| Hub 					| Menunjukkan sebuah komunitas yang biasa bekerja bersama-sama. |
 | Hyperlink 			| Pranala 				| |

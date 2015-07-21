@@ -24,23 +24,28 @@
 | Memory cache		| Tembolok memori 		| |
 | Memory capacity 	| Kapasitas memori 		| |
 | Menu 				| Menu 					| |
+| Menu Item 		| Butir Menu 			| |
 | Merge 			| Gabung 				| |
 | Message 			| Pesan 				| |
 | Message handling 	| Penanganan pesan 		| |
 | Message retrieval | Temu kembali pesan 	| |
 | Message transfer 	| Transfer pesan 		| |
 | Message Transfer Agent | Agen Transfer Pesan | |
+| Metadata 			| Data meta 			| |
 | Microcomputer 	| Mikro komputer; komputer mikro | |
 | Microprocessor 	| Prosesor mikro; mikroprosesor | |
 | Minicomputer 		| Minikomputer 			| |
 | Missing 			| Kehilangan 			| |
 | Modem 			| Modem 				| |
 | Moderated 		| Dimoderasi 			| |
+| Module(s) 		| Modul 				| |
 | Monitor 			| Monitor 				| |
 | Motherboard 		| Papan induk 			| |
 | Mouse 			| Tetikus 				| |
 | Movie 			| Film 					| |
 | Multi 			| Multi; banyak 		| Menunjukkan kata sifat, sesuatu yang jumlahnya lebih dari satu. |
-| Multi-tasking 	| Penugasan ganda 		| |
+| Multilingual 		| Banyak bahasa 		| |
+| Multitasking 		| Penugasan ganda 		| |
 | Multimedia 		| Multimedia 			| |
-| Multiple of firing | Penyalaan ganda 		| | 
+| Multiple of firing | Penyalaan ganda 		| |
+| MySQL 			| MySQL 				| |

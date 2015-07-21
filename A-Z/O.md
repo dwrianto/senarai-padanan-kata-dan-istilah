@@ -4,6 +4,7 @@
 |-------------------|-----------------------|---------------|
 | O/R address 		| Alamat O/R 			| |
 | Object 			| Obyek 				| |
+| Object-Oriented Programming (OOP) | Pemrograman Berorientasi Obyek | |
 | Off 				| Padam 				| |
 | Office automation | Otomasi kantor 		| |
 | Offline 			| Offline; luring; terputus | |
@@ -19,3 +20,4 @@
 | Originator 		| Originator 			| |
 | Outline 			| Kerangka; ragangan 	| |
 | Output 			| Keluaran 				| |
+| Overwrite 		| Timpa 				| |

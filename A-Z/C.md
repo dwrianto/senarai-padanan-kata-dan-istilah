@@ -6,7 +6,7 @@
 | Cancel 					| Batal 					| |
 | Capacity 					| Kapasitas 				| |
 | Capslock 					| Kancing kapital 			| |
-| CAPTCHA 					| CAPTCHA 					| Selalu gunakan huruf besar karena ini merupakan singkatan dari Completely Automated Public Turing test to tell Computers and Humans Apart. |
+| CAPTCHA 					| CAPTCHA 					| Pakai huruf besar, singkatan dari Completely Automated Public Turing test to tell Computers and Humans Apart. |
 | Caption(s) 				| Takarir					| |
 | Card 						| Kartu 					| |
 | Cartridge					| Kartrid; selongsong; patrun | |
@@ -57,11 +57,11 @@
 | Control Panel 			| Panel Kendali 			| |
 | Convert 					| Ubah 						| |
 | Conversion(s) 			| Konversi 					| Jika dikaitkan dengan mata uang, gunakan **penukaran**. |
-| Copy 						| Salin 					| Berhenti gunakan kata ~~salinan~~ atau ~~penyalinan~~ untuk kata benda kecuali kata sifat, seperti *copy recipient*, penerima salinan. |
+| Copy 						| Salin 					| Kata sifat, seperti *copy recipient*, artinya penerima salinan. |
 | Count 					| Jumlah 					| |
 | Country 					| Negara 					| |
 | Crack 					| Rengkah 					| |
-| CSS 						| CSS 						| Selalu pakai dengan huruf besar semuanya kecuali dalam pengodean atau sebuah nama berkas ekstensi. Ini merupakan singkatan dari Cascading Style Sheet. |
+| CSS 						| CSS 						| Pakai huruf besar kecuali dalam pengodean atau nama ekstensi, singkatan dari Cascading Style Sheet. |
 | Cursor 					| Kursor 					| |
 | Custom 					| Kustom; suai 				| |
 | Cut 						| Potong 					| |
