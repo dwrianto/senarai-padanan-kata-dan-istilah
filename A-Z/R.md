@@ -22,7 +22,7 @@
 | Repeat 			| Ulang 				| |
 | Replace 			| Ganti 				| |
 | Replication 		| Replikasi 			| |
-| Reply 			| Jawab 				| |
+| Reply 			| Jawab; balas  		| |
 | Reports 			| Laporan 				| Untuk kata *report*, bisa diartikan **lapor** atau **laporkan**. |
 | Reset 			| Tata ulang 			| |
 | Resource 			| Sumber daya; sumber  	| |
