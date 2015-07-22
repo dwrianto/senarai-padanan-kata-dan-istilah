@@ -24,7 +24,7 @@
 | To fax 			| Ke faks 				| |
 | Toolbar(s) 		| Batang alat; batang perkakas | |
 | Tools 			| Alat; perangkat; perkakas 	| |
-| Top-Level Domain Name 	| Ranah Aras Puncak | |
+| Top Level Domain Name | Ranah Aras Puncak | |
 | Trace 			| Runut 				| |
 | Tracing facility 	| Fasilitas perunutan 	| |
 | Track 			| Jalur; lintas 		| |
