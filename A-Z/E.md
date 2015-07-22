@@ -1,7 +1,7 @@
 ## E
 
-| English					| Bahasa Indonesia			| Catatan				|
-|---------------------------|---------------------------|-----------------------|
+| English			| Bahasa Indonesia			| Catatan		|
+|-------------------|---------------------------|---------------|
 | Edit 						| Sunting; edit 			| |
 | Electronic Data Proccessing (EDP) | Pengolahan Data Elektronik | |
 | Electronic archive 		| Arsip elektronik 			| |

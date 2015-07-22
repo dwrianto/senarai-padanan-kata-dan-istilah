@@ -1,7 +1,7 @@
 ## D
 
-| English					| Bahasa Indonesia			| Catatan				|
-|---------------------------|---------------------------|-----------------------|
+| English			| Bahasa Indonesia		| Catatan		|
+|-------------------|-----------------------|---------------|
 | Daemon 					| Jurik 					| |
 | Dashboard 				| Dasbor 					| |
 | Data 						| Data 						| |
