@@ -4,6 +4,7 @@
 |-------------------|-----------------------|---------------|
 | Tab 				| Tab 					| |
 | Table 			| Tabel 				| |
+| Tag(s) 			| Tagar 				| |
 | Tape 				| Pita 					| |
 | Task 				| Tugas 				| |
 | Taskbar 			| Batang tugas 			| |
