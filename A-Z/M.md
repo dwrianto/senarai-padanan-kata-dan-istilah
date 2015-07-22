@@ -35,7 +35,9 @@
 | Microcomputer 	| Mikro komputer; komputer mikro | |
 | Microprocessor 	| Prosesor mikro; mikroprosesor | |
 | Minicomputer 		| Minikomputer 			| |
+| Miscellaneous 	| Serba-serbi 			| |
 | Missing 			| Kehilangan 			| |
+| Mode 				| Modus 				| |
 | Modem 			| Modem 				| |
 | Moderated 		| Dimoderasi 			| |
 | Module(s) 		| Modul 				| |

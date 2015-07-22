@@ -5,6 +5,8 @@
 | Random 			| Acak 					| |
 | Random access 	| Akses acak 			| |
 | Random Access Memory (RAM) | Memori Akses Acak | |
+| Rate 				| Nilai 				| |
+| Rating 			| Penilaian 			| |
 | Read-Only Memory (ROM) | Memori Baca-Saja | |
 | Reader 			| Pembaca 				| |
 | Ready 			| Siap 					| |
@@ -34,6 +36,7 @@
 | Right 			| Kanan 				| |
 | Role 				| Peran 				| |
 | Rollback 			| Kembali 				| |
+| Root 				| Pangkal 				| |
 | Row 				| Baris 				| |
 | Ruler 			| Mistar; penggaris  	| |
 | Run 				| Jalankan 				| |

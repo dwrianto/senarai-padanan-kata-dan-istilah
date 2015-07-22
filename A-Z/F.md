@@ -8,6 +8,7 @@
 | Facboard 			| Papan faks 		| |
 | Fax machine 		| Mesin faks 		| |
 | Fax modem 		| Modem faks 		| |
+| Feature 			| Fitur 			| |
 | Feed 				| Pengumpan 		| |
 | Feedback 			| Umpan balik		| |
 | Fetch 			| Jemput; ambil 	| |

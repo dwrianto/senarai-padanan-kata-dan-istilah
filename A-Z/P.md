@@ -29,6 +29,7 @@
 | Port 				| Pangkalan 			| |
 | Portrait 			| Potret 				| |
 | Power 			| Daya 					| |
+| Prefix 			| Awalan 				| |
 | Preview 			| Tinjau; pratilik 		| |
 | Preference(s) 	| Preferensi 			| |
 | Primary 			| Primer; utama 		| |

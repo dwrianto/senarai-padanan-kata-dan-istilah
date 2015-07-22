@@ -13,6 +13,7 @@
 | Level 			| Level, tingkat 			| |
 | Line 				| Baris 					| |
 | Link(s) 			| Taut	 					| Bentuk jamak, **tautan**. |
+| Linkable 			| Tertautkan 				| |
 | List 				| Senarai		 			| |
 | Load 				| Muat 						| |
 | Lock 				| Kancing 					| |

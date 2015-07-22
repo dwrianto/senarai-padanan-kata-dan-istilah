@@ -9,7 +9,9 @@
 | Networking 		| Jejaring 				| |
 | New mail 			| Surat baru 			| |
 | News Feed 		| Pengumpan Berita 		| |
+| Newsflash 		| Berita terbaru 		| |
 | Nondelivery 		| Tak terkirim 			| |
+| None 				| Tak ada 				| |
 | Note 				| Catatan 				| Catatan sederhana sebagai pengingat. |
 | Notification 		| Pemberitahuan 		| |
 | Numbering 		| Penomoran 			| |
