@@ -5,7 +5,7 @@
 
 ### Ketahui Batasan
 
-Kata-kata & istilah yang dikumpulkan disini sangat populer dipakai dan biasa ditemukan pada situs web maupun perangkat lunak (software) atau sebuah perangkat keras (hardware) komputer.
+Kata-kata & istilah yang dikumpulkan disini sangat populer dipakai dan biasa ditemukan pada situs web maupun perangkat lunak (software) dan sebuah perangkat keras (hardware) komputer.
 
 #### Lihat Tautan
 * [Joomla! Indonesia Senarai Padanan Kata](http://www.id-joomla.com/forum/26-terjemahan-joomla/101794-senarai-padanan-istilah-komputer)
