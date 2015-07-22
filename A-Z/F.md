@@ -25,7 +25,7 @@
 | Find 				| Temukan 			| |
 | Firmware 			| Peranti tegar; perangkat tegar 	| |
 | Floppy disk 		| Disket liuk; cakram liuk 	| |
-| Folder 			| Pelipat 			| Atau biasa ditemukan dalam kata aslinya, **folder**. |
+| Folder 			| Pelipat 			| Atau biasa ditemukan dalam kata aslinya, *folder*. |
 | Font 				| Huruf; fonta 		| |
 | Font size 		| Ukuran huruf 		| |
 | Footer 			| Kaki halaman 		| |
