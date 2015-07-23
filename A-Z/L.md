@@ -12,7 +12,7 @@
 | Left 				| Kiri						| |
 | Level 			| Level, tingkat 			| |
 | Line 				| Baris 					| |
-| Link(s) 			| Taut	 					| Bentuk jamak, **tautan**. |
+| Link(s) 			| Tautan; taut	 			| |
 | Linkable 			| Tertautkan 				| |
 | List 				| Senarai		 			| |
 | Load 				| Muat 						| |
