@@ -30,3 +30,5 @@
 | Expiration date 			| Tanggal kadaluarsa 		| Bisa juga tertulis *expiry date* dengan arti yang sama. |
 | Explorer 					| Penjelajah 				| |
 | Export 					| Ekspor 					| |
+
+[Kembali](../blob/master/README.md)
