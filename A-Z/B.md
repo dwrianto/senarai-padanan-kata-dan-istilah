@@ -43,4 +43,4 @@
 | Button 					| Tombol 					| |
 | Byte 						| Bita 						| |
 
-[&larr; Kembali]{../}
+[&larr; Kembali](../)
