@@ -42,3 +42,5 @@
 | Bullet 					| Bulet 					| |
 | Button 					| Tombol 					| |
 | Byte 						| Bita 						| |
+
+[&larr; Kembali]{../}
