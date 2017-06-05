@@ -66,3 +66,5 @@
 | Custom 					| Kustom; suai 				| |
 | Cut 						| Potong 					| |
 | Cut-off 					| Putus 					| |
+
+[&larr; Kembali](../)
