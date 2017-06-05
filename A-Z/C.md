@@ -15,7 +15,7 @@
 | Cell 						| Sel 						| |
 | Center 					| Tengah 					| |
 | Central 					| Pusat 					| |
-| Central Processing Unit (CPU) | Unit Pengolah Pusat | | |
+| Central Processing Unit (CPU) | Unit Pengolah Pusat | |
 | Change 					| Ubah; ganti 				| |
 | Channel 					| Kanal; saluran 			| |
 | Character 				| Aksara; karakter 			| |
