@@ -43,4 +43,4 @@
 | Auto						| Otomatis					| Bisa disingkat, **oto**. |
 | AutoCorrect 				| Koreksi-Otomatis 			| Bisa memakai tanda penghubung diantara dua kata (-) karena kata ini menunjuk ke fungsi. |
 
-[Kembali](../)
+[&larr; Kembali](../)
