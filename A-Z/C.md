@@ -61,7 +61,7 @@
 | Count 					| Jumlah 					| |
 | Country 					| Negara 					| |
 | Crack 					| Rengkah 					| |
-| CSS 						| CSS 						| Pakai huruf besar kecuali dalam pengodean atau nama ekstensi, singkatan dari Cascading Style Sheet. |
+| CSS 						| CSS 						| Pakai huruf besar kecuali dalam koding atau nama ekstensi, singkatan dari Cascading Style Sheet. |
 | Cursor 					| Kursor 					| |
 | Custom 					| Kustom; suai 				| |
 | Cut 						| Potong 					| |
