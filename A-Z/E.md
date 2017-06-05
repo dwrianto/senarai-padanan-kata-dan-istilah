@@ -31,4 +31,4 @@
 | Explorer 					| Penjelajah 				| |
 | Export 					| Ekspor 					| |
 
-[Kembali](../blob/master/README.md)
+[Kembali](../blob/master/)
