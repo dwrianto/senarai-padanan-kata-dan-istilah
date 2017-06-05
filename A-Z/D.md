@@ -62,3 +62,5 @@
 | Drop 						| Jatuh 					| |
 | Dropdown 					| Dropdown 					| Menunjukkan suatu elemen HTML yang bisa diklik lalu menampilkan daftar butir. |
 | Dummy 					| Tiruan 					| |
+
+[&larr; Kembali](../)
