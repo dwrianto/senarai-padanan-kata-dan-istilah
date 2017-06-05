@@ -31,4 +31,4 @@
 | Explorer 					| Penjelajah 				| |
 | Export 					| Ekspor 					| |
 
-[Kembali](https://github.com/dwiriantop/senarai-padanan-kata-dan-istilah)
+[Kembali](http://dwiriantop.github.io/senarai-padanan-kata-dan-istilah)
