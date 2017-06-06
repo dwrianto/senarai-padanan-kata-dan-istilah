@@ -41,3 +41,4 @@
 | Fullscreen 		| Layar penuh 		|
 
 [&larr; Kembali](../)
+
