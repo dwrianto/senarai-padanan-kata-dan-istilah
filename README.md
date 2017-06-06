@@ -11,7 +11,7 @@ Kata-kata & istilah yang dikumpulkan disini sangat populer dipakai dan biasa dit
 * [Words To Watch (W2W)](https://github.com/joomla/user-interface-text/blob/master/words2watch.md)
 
 #### Lisensi
-Apa sajalah! [Baca lisensi MIT](/License/lisensi.txt). Yang bermanfaat baik dan *barokah*.
+[MIT](/License/lisensi.txt)
 
 ---
 @2015
