@@ -13,7 +13,7 @@
 | Feedback 			| Umpan balik		|
 | Fetch 			| Jemput; ambil 	|
 | Field 			| Ruas; kolom 		|
-| Field length 		| Panjang ruas; panjang kolom ||
+| Field length 		| Panjang ruas; panjang kolom |
 | File 				| Berkas 			|
 | Filename 			| Nama berkas 		|
 | File size 		| Ukuran berkas; besar berkas 	|
