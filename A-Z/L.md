@@ -1,23 +1,25 @@
 ## L
 
-| English			| Bahasa Indonesia			| Catatan		|
-|-------------------|---------------------------|---------------|
-| Label 			| Label 					| |
-| Landscape 		| Lanskap 					| |
-| Language 			| Bahasa 					| |
-| Launch 			| Luncur 					| |
-| Launching 		| Peluncuran 				| |
-| Layout(s) 		| Tata letak 				| |
-| Leasedline 		| Jalur sewaan 				| |
-| Left 				| Kiri						| |
-| Level 			| Level, tingkat 			| |
-| Line 				| Baris 					| |
-| Link(s) 			| Tautan; taut	 			| |
-| Linkable 			| Tertautkan 				| |
-| List 				| Senarai		 			| |
-| Load 				| Muat 						| |
-| Lock 				| Kancing 					| |
-| Log(s) 			| Catatan 					| Catatan sederhana untuk dokumentasi, seperti riwayat, versi, dsb. |
-| Login; logon 		| Masuk 					| Jika merupakan kata kerja, log in, log off.|
-| Logout; loggoff 	| Keluar 					| Jika merupakan kata kerja, log out, log off. |
-| Lowercase 		| Sosok (huruf) bawah 		| |
+| English | Bahasa Indonesia |
+|-|-|
+| Label | |
+| Landscape | Lanskap |
+| Language | Bahasa |
+| Launch | Luncur |
+| Launching | Peluncuran |
+| Layout(s) | Tata letak |
+| Leasedline | Jalur sewaan |
+| Left | Kiri |
+| Leve | Level; Tingkatan |
+| Line | Baris |
+| Link(s) | Tautan |
+| Linkable | Tertautkan |
+| List | Senarai; Daftar |
+| Load | Muat |
+| Lock | Kunci |
+| Log(s) | Catatan |
+| Login; logon | Masuk |
+| Logout; loggoff | Keluar |
+| Lowercase | Huruf kecil |
+
+[&larr; Kembali](../)
