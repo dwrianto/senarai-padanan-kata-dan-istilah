@@ -16,10 +16,10 @@
 | Operating System (OS) | Sistem Operasi |
 | Operator| Operator |
 | Optical disc | Disket optik, Cakram optik |
-| Option(s) | Opsi; pilihan |
+| Option(s) | Opsi; Pilihan |
 | Originator | Originator|
-| Outline| Kerangka; ragangan |
+| Outline| Kerangka; Ragangan |
 | Output| Keluaran |
-| Overwrite | Timpa |
+| Overwrite | Timpa; Perubahan |
 
 [&larr; Kembali](../)
