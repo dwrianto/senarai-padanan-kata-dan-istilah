@@ -3,23 +3,23 @@
 | English | Bahasa Indonesia |
 |-|-|
 | Tab | Tab |
-| Tabled | Tabel |
-| Tag(s)d | Tagar |
+| Table | Tabel |
+| Tag(s) | Tagar |
 | Tape | Pita |
 | Task | Tugas |
-| Taskbar | Batang tugas; Bilah tugas |
+| Taskbar | Bilah tugas |
 | Teleconferencing | Telekonferensi |
-| Telecopyd | Telekopi |
-| Telefaxd | Telefaks |
-| Teletextd | Teleteks |
-| Telexd | Teleks |
-| Templated | Templat |
-| Terminald | Terminal |
+| Telecopy | Telekopi |
+| Telefax | Telefaks |
+| Teletext | Teleteks |
+| Telex | Teleks |
+| Template | Templat |
+| Terminal | Terminal |
 | Text | Teks |
 | Textbox | Kotak teks |
 | Theme | Tema |
 | Thread | Ulir |
-| Throughput | Terobosand |
+| Throughput | Terobosan |
 | Tile | Ubinan |
 | Time | Waktu |
 | To fax | Ke faks |
