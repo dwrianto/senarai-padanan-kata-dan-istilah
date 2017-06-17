@@ -1,4 +1,6 @@
 ## X
 
-| English		| Bahasa Indonesia		| Catatan		|
-|---------------|-----------------------|---------------|
+| English | Bahasa Indonesia |
+|-|-|
+
+[&larr; Kembali](../)
