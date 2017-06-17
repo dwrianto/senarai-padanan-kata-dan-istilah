@@ -1,6 +1,8 @@
 ## Q
 
-| English			| Bahasa Indonesia		| Catatan		|
-|-------------------|-----------------------|---------------|
-| Query 			| Kueri; permintaan 	| |
-| Quit 				| Keluar 				| |
+| English | Bahasa Indonesia |
+|-|-|
+| Query | Kueri |
+| Quit | Keluar |
+
+[&larr; Kembali](../)
