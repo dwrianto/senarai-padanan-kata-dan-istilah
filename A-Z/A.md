@@ -7,7 +7,7 @@
 | Account | Akun |
 | Action | Tindakan |
 | Active | Aktif |
-| Activated | Diaktivasi |
+| Activate(d) | Diaktivasi; Diaktivasikan |
 | Adapter | Adapter |
 | Addin(s) | Tertambah |
 | Addon(s) | Pengaya |
